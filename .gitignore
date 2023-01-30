@@ -57,6 +57,10 @@ Temporary Items
 # WebStorm
 .idea/
 
+*.db
+*.toml
+*.sql
+
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos
 

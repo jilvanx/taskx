@@ -29,6 +29,8 @@ $ npm install
 $ npm run dev
 ```
 
+- And then go to the link [http://127.0.0.1:5173/](http://127.0.0.1:5173/)
+
 ## Techs 💻
 
 ### Backend
@@ -40,6 +42,7 @@ $ npm run dev
 ### Frontend
 
 - React
+- Vite
 - Typescript
 - ESlint
 - Prettier
