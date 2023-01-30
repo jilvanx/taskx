@@ -38,9 +38,7 @@ export async function appRoutes(app: FastifyInstance) {
     });
 
     const { id } = idParams.parse(req.params);
-    console.log("🚀 DEGUB -> id", id);
     const { title, completed } = updateTask.parse(req.body);
-    console.log("🚀 DEGUB ->  title, completed", title, completed);
 
     await prisma.task.update({
       data: {
