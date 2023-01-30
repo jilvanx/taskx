@@ -1,6 +1,6 @@
 # ☑️ Taskx
 
-Monorepo application with backend and frontend that manager your tasks.
+Simple monorepo application with backend and frontend that manager your tasks.
 
 ## Install 🚀
 
@@ -30,13 +30,13 @@ $ npm run dev
 
 ## Techs 💻
 
-##Backend
+### Backend
 
 - Fastfy
 - PrismaORM
 - SQLite
 
-Frontend
+### Frontend
 
 - React
 - Typescript
